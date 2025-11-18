@@ -1,0 +1,1 @@
+I consider myself to be innovative, compassionate, and dedicated.

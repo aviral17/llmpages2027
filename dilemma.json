@@ -1,0 +1,5 @@
+{
+  "people": 5,
+  "case_1": {"swerve": false, "reason": "Legal priority and threat to more lives"},
+  "case_2": {"swerve": true, "reason": "Child’s innocence and potential for future"}
+}
